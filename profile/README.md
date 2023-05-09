@@ -17,7 +17,15 @@
 </div>
 
 ---
+<div>
+  <h1>@Walnusskeim &nbsp; &nbsp; &nbsp; &nbsp; @BrotRooti </h1>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Walnusskeim"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrotRooti"/>
+</div>
+
+
+---
 <p align"center"> 
 <img src="https://madewithlove.now.sh/at?heart=true&colorA=%23000000&colorB=%23dc0000&template=for-the-badge&text=%C3%96%C3%96%C3%96%C3%96%C3%96%C3%96%C3%96%C3%96STERREICH" alt="Made with love in ÖSTERREICH">
 </p>
