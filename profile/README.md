@@ -18,7 +18,7 @@
 
 ---
 <div>
-  <h1>@Walnusskeim⠀⠀⠀⠀⠀⠀⠀@BrotRooti </h1>
+  <h1>@Walnusskeim⠀⠀⠀⠀⠀⠀@BrotRooti </h1>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Walnusskeim"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrotRooti"/>
